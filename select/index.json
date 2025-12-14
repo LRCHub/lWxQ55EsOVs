@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Radio Ga Ga",
+  "base_artist": "Queen",
+  "createdAt": "2025-12-14T19:59:00.930671Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Radio Ga Ga",
+      "artist": "Electric Six",
+      "has_synced": true,
+      "path": "select/01_Radio_Ga_Ga_Electric_Six.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Radio Ga Ga",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/02_Radio_Ga_Ga_Queen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Radio Ga Ga",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/03_Radio_Ga_Ga_Queen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Radio Ga Ga",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/04_Radio_Ga_Ga_Queen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Radio Ga Ga - Live At Wembley Stadium / July 1986",
+      "artist": "Queen",
+      "has_synced": false,
+      "path": "select/05_Radio_Ga_Ga_-_Live_At_Wembley_Stadium___July_1986_Queen.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Radio Ga Ga (Live At Wembley Stadium \u0000 July 1986)",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/06_Radio_Ga_Ga_(Live_At_Wembley_Stadium_\u0000_July_1986)_Queen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Radio Ga Ga (Remastered 2011)",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/07_Radio_Ga_Ga_(Remastered_2011)_Queen.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Radio Ga Ga",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/08_Radio_Ga_Ga_Queen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Radio Ga Ga",
+      "artist": "Queen",
+      "has_synced": false,
+      "path": "select/pl_01_Radio_Ga_Ga_Queen.txt"
+    }
+  ]
+}
